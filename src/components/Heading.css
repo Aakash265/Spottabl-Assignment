@@ -1,0 +1,22 @@
+.heading{
+    margin: auto;
+    width: 50rem;
+}
+
+.head{
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+
+.subHead{
+    color: rgb(91, 89, 89);
+    margin-left: 3rem;
+}
+
+.image{
+    margin-left: 0rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    height: 5rem;
+    width: 5rem;
+}

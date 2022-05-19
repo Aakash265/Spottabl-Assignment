@@ -1,0 +1,11 @@
+.data{
+    font-size: 2.5rem;
+    font-weight: 600;
+    margin-left: 1rem;
+}
+
+.table{
+    border-bottom: 0.5px solid;
+    border-color: darkgray;
+}
+

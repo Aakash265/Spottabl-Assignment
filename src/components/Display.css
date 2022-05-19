@@ -1,0 +1,10 @@
+.display{
+    padding: 1rem;
+    margin: auto;
+    margin-bottom: 2rem;
+    width: 50rem;
+    max-width: 92%;
+    border: 2px solid;
+    border-color: rgba(169, 169, 169, 0.545);
+    border-radius: 6px;
+}
